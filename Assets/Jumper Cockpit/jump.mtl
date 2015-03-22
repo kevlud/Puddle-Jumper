@@ -1,0 +1,110 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl None__St__na_png
+map_Kd Stěna.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.160000 0.160000 0.160000
+illum 2
+Ns 80.000000
+Tr 1.000000
+
+newmtl Material_003__St__na_png
+map_Kd Stěna.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+illum 1
+Tr 1.000000
+
+newmtl None__Hn__d__png
+map_Kd Hnědá.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.160000 0.160000 0.160000
+illum 2
+Ns 80.000000
+Tr 1.000000
+
+newmtl None__PuddleJumperCockpit_png
+map_Kd PuddleJumperCockpit.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.160000 0.160000 0.160000
+illum 2
+Ns 80.000000
+Tr 1.000000
+
+newmtl Material_004__St__na_png
+map_Kd Stěna.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+illum 1
+Tr 1.000000
+
+newmtl default1
+illum 2
+
+newmtl None__Wall_png
+map_Kd Wall.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.160000 0.160000 0.160000
+illum 2
+Ns 80.000000
+Tr 1.000000
+
+newmtl Material_002__Hn__d__png
+map_Kd Hnědá.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+illum 1
+Tr 1.000000
+
+newmtl P_cky____ern__png
+map_Kd Černá.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+illum 1
+Tr 1.000000
+
+newmtl None__Panel_png
+map_Kd Panel.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.160000 0.160000 0.160000
+illum 2
+Ns 80.000000
+Tr 1.000000
+
+newmtl Material____ern__png
+map_Kd Černá.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+illum 1
+Tr 1.000000
+
+newmtl Panel_DHD__DHD_Panel_png
+map_Kd DHD_Panel.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+illum 1
+Tr 1.000000
+
+newmtl Material_001__Hn__d__png
+map_Kd Hnědá.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+illum 1
+Tr 1.000000
+
+newmtl None__DHD_png
+map_Kd DHD.png
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.160000 0.160000 0.160000
+illum 2
+Ns 80.000000
+Tr 1.000000
