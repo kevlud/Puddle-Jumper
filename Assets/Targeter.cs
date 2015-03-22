@@ -29,21 +29,10 @@ public class Targeter : MonoBehaviour {
 		if (targetTransform != null)
 		{
 			// And this object has HighlighterController component
-			HighlighterController hc = targetTransform.GetComponentInParent<HighlighterController>();
+			//HighlighterController hc = targetTransform.GetComponentInParent<HighlighterController>();
 			Glyph glyph = targetTransform.GetComponentInParent<Glyph>();
 
-			if (hc != null)
-			{
-				// Transfer input information to the found HighlighterController
-				if (Input.GetButtonDown("Fire1")) { hc.Fire1(); }
-				if (Input.GetButtonUp("Fire2")) { hc.Fire2(); }
-				hc.MouseOver();
-			}
-			if (glyph != null)
-			{
-				// Transfer input information to the found HighlighterController
-				if (Input.GetButtonDown("Fire1")) { glyph.Fire1(); }
-				if (Input.GetButtonUp("Fire2")) { glyph.Fire2(); }
+			if(glyph != null){
 				glyph.MouseOver();
 			}
 		}
