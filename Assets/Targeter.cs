@@ -22,6 +22,7 @@ public class Targeter : MonoBehaviour {
 			targetTransform = hit.collider.transform;
 			if(hit.collider.tag == "selectable"){
 				//print("HAHA");
+                
 			}
 		}
 
